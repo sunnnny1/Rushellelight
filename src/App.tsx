@@ -217,6 +217,30 @@ export default function App() {
         '/projects/Week4-11.png'
       ],
     },
+    {
+      id: 13,
+      title: '5주차(Week05)',
+      category: '졸업프로젝트',
+      image: '/projects/Week5.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: '추가 리서치, HMW, IDEA, GUT CHECK',
+      subImages: [
+        '/projects/Week5_01.png',
+        '/projects/Week5_02.png',
+        '/projects/Week5_03.png',
+        '/projects/Week5_04.png',
+        '/projects/Week5_05.png',
+        '/projects/Week5_06.png',
+        '/projects/Week5_07.png',
+        '/projects/Week5_08.png',
+        '/projects/Week5_09.png',
+        '/projects/Week5_10.png',
+        '/projects/Week5_11.png',
+        '/projects/Week5_12.png',
+        '/projects/Week5_13.png'
+      ],
+    },
     // More projects can be added here
   ];
 
