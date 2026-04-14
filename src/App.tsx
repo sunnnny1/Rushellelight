@@ -241,6 +241,25 @@ export default function App() {
         '/projects/Week5_13.png'
       ],
     },
+    {
+      id: 14,
+      title: '6주차(Week06)',
+      category: '졸업프로젝트',
+      image: '/projects/Week6.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: '시나리오, 유저 플로우',
+      subImages: [
+        '/projects/Week6_01.png',
+        '/projects/Week6_02.png',
+        '/projects/Week6_03.png',
+        '/projects/Week6_04.png',
+        '/projects/Week6_05.png',
+        '/projects/Week6_06.png',
+        '/projects/Week6_07.png',
+        '/projects/Week6_08.png'
+      ],
+    },
     // More projects can be added here
   ];
 
