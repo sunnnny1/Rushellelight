@@ -352,6 +352,36 @@ export default function App() {
         '/projects/Week9_25.png'
       ],
     },
+    {
+      id: 17,
+      title: '10주차(Week10)',
+      category: '졸업프로젝트',
+      image: '/projects/Week10.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: 'Webby Awards 수상작 분석, UI 레퍼런스 리서치',
+      subImages: [
+        '/projects/Week10_01.png',
+        '/projects/Week10_02.png',
+        '/projects/Week10_03.png',
+        '/projects/Week10_04.png',
+        '/projects/Week10_05.png',
+        '/projects/Week10_06.png',
+        '/projects/Week10_07.png',
+        '/projects/Week10_08.png',
+        '/projects/Week10_09.png',
+        '/projects/Week10_10.png',
+        '/projects/Week10_11.png',
+        '/projects/Week10_12.png',
+        '/projects/Week10_13.png',
+        '/projects/Week10_14.png',
+        '/projects/Week10_15.png',
+        '/projects/Week10_16.png',
+        '/projects/Week10_17.png',
+        '/projects/Week10_18.png',
+        '/projects/Week10_19.png'
+      ],
+    },
     // More projects can be added here
   ];
 
