@@ -382,6 +382,46 @@ export default function App() {
         '/projects/Week10_19.png'
       ],
     },
+    {
+      id: 18,
+      title: '11주차(Week11)',
+      category: '졸업프로젝트',
+      image: '/projects/Week11.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: '클로드 디자인(HI-fi), 디자인 시스템, UI',
+      subImages: [
+        '/projects/Week11_01.png',
+        '/projects/Week11_02.png',
+        '/projects/Week11_03.png',
+        '/projects/Week11_04.png',
+        '/projects/Week11_05.png',
+        '/projects/Week11_06.png',
+        '/projects/Week11_07.png',
+        '/projects/Week11_08.png',
+        '/projects/Week11_09.png',
+        '/projects/Week11_10.png',
+        '/projects/Week11_11.png',
+        '/projects/Week11_12.png',
+        '/projects/Week11_13.png',
+        '/projects/Week11_14.png',
+        '/projects/Week11_15.png',
+        '/projects/Week11_16.png',
+        '/projects/Week11_17.png',
+        '/projects/Week11_18.png',
+        '/projects/Week11_19.png',
+        '/projects/Week11_20.png',
+        '/projects/Week11_21.png',
+        '/projects/Week11_22.png',
+        '/projects/Week11_23.png',
+        '/projects/Week11_24.png',
+        '/projects/Week11_25.png',
+        '/projects/Week11_26.png',
+        '/projects/Week11_27.png',
+        '/projects/Week11_28.png',
+        '/projects/Week11_29.png'
+      ],
+    },
     // More projects can be added here
   ];
 
@@ -775,7 +815,7 @@ export default function App() {
                 <h2 className="text-4xl font-display font-bold text-white mb-4">About Me</h2>
                 <div className="w-full aspect-[3/4] bg-zinc-900 rounded-2xl overflow-hidden mb-6 border border-zinc-800">
                   <img 
-                    src="/projects/uys.png" 
+                    src="https://picsum.photos/seed/profile/800/1066" 
                     alt="Profile" 
                     className="w-full h-full object-cover transition-all duration-500"
                     referrerPolicy="no-referrer"
