@@ -422,6 +422,39 @@ export default function App() {
         '/projects/Week11_29.png'
       ],
     },
+    {
+      id: 19,
+      title: '12주차(Week12)',
+      category: '졸업프로젝트',
+      image: '/projects/Week12.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: 'UI 디자인',
+      subImages: [
+        '/projects/Week12_01.png',
+        '/projects/Week12_02.png',
+        '/projects/Week12_03.png',
+        '/projects/Week12_04.png',
+        '/projects/Week12_05.png',
+        '/projects/Week12_06.png',
+        '/projects/Week12_07.png',
+        '/projects/Week12_08.png',
+        '/projects/Week12_09.png',
+        '/projects/Week12_10.png',
+        '/projects/Week12_11.png',
+        '/projects/Week12_12.png',
+        '/projects/Week12_13.png',
+        '/projects/Week12_14.png',
+        '/projects/Week12_15.png',
+        '/projects/Week12_16.png',
+        '/projects/Week12_17.png',
+        '/projects/Week12_18.png',
+        '/projects/Week12_19.png',
+        '/projects/Week12_20.png',
+        '/projects/Week12_21.png',
+        '/projects/Week12_22.png'
+      ],
+    },
     // More projects can be added here
   ];
 
