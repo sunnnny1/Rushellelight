@@ -455,6 +455,31 @@ export default function App() {
         '/projects/Week12_22.png'
       ],
     },
+    {
+      id: 20,
+      title: '13주차(Week13)',
+      category: '졸업프로젝트',
+      image: '/projects/Week13.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: '모바일 UI 디자인',
+      subImages: [
+        '/projects/Week13_01.png',
+        '/projects/Week13_02.png',
+        '/projects/Week13_03.png',
+        '/projects/Week13_04.png',
+        '/projects/Week13_05.png',
+        '/projects/Week13_06.png',
+        '/projects/Week13_07.png',
+        '/projects/Week13_08.png',
+        '/projects/Week13_09.png',
+        '/projects/Week13_10.png',
+        '/projects/Week13_11.png',
+        '/projects/Week13_12.png',
+        '/projects/Week13_13.png',
+        '/projects/Week13_14.png'
+      ],
+    },
     // More projects can be added here
   ];
 
