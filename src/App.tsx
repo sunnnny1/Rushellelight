@@ -480,6 +480,33 @@ export default function App() {
         '/projects/Week13_14.png'
       ],
     },
+    {
+      id: 21,
+      title: '14주차(Week14)',
+      category: '졸업프로젝트',
+      image: '/projects/Week14.png',
+      type: 'Graduation Project - 3인',
+      date: '2026. 03 - 06',
+      description: '유저테스트 및 UI 수정',
+      subImages: [
+        '/projects/Week14_01.png',
+        '/projects/Week14_02.png',
+        '/projects/Week14_03.png',
+        '/projects/Week14_04.png',
+        '/projects/Week14_05.png',
+        '/projects/Week14_06.png',
+        '/projects/Week14_07.png',
+        '/projects/Week14_08.png',
+        '/projects/Week14_09.png',
+        '/projects/Week14_10.png',
+        '/projects/Week14_11.png',
+        '/projects/Week14_12.png',
+        '/projects/Week14_13.png',
+        '/projects/Week14_14.png',
+        '/projects/Week14_15.png',
+        '/projects/Week14_16.png'
+      ],
+    },
     // More projects can be added here
   ];
 
